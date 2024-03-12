@@ -19,19 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rituals of the AI Syncretism (RAIS)
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Rituals of the AI Syncretism (RAIS) Modern Secular Rituals for the current times.
+#email: your-email@example.com
+description: Rituals of the AI Syncretism (RAIS) Modern Secular Rituals for the current times.
 baseurl: "/RAIS" # the subpath of your site, e.g. /blog
 url: "https://sudoaza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username: sudoaza
 
 # Build settings
-theme: jekyll-theme-minima
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
 
 # Exclude from processing.

@@ -5,7 +5,7 @@ permalink: /equinox-renewal-fast/en/
 ---
 # Introducing the Equinox Renewal Fast
 
-![Equinox Renewal Fast](/images/Equinox-Renewal-Fast.webp)
+![Equinox Renewal Fast](/RAIS/images/Equinox-Renewal-Fast.webp)
 
 ## A Modern Secular Ritual for 2024
 

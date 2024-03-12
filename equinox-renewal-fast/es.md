@@ -5,7 +5,7 @@ permalink: /equinox-renewal-fast/es/
 ---
 # Presentamos el Ayuno de Renovación del Equinoccio
 
-![Ayuno de Renovación del Equinoccio](/images/Equinox-Renewal-Fast.webp)
+![Ayuno de Renovación del Equinoccio](/RAIS/images/Equinox-Renewal-Fast.webp)
 
 ## Un Ritual Secular Moderno para 2024
 
