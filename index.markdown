@@ -8,7 +8,7 @@ layout: home
 
 ## Equinox Renewal Fast
 
-- [Equinox Renewal Fast (EN)](/equinox-renewal-fast/en/)
-- [Ayuno de Renovación del Equinoccio (ES)](/equinox-renewal-fast/es/)
+- [Equinox Renewal Fast (EN)](equinox-renewal-fast/en/)
+- [Ayuno de Renovación del Equinoccio (ES)](equinox-renewal-fast/es/)
 
 

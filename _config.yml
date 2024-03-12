@@ -28,7 +28,7 @@ url: "https://sudoaza.github.io/RAIS/" # the base hostname & protocol for your s
 github_username: sudoaza
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
