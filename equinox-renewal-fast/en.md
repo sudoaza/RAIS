@@ -17,8 +17,8 @@ Spanning 7 days around each equinox, this ritual encourages mindfulness, communi
 
 ## Equinox Dates for 2024
 
-- **Spring Equinox**: March 17th - March 23rd
-- **Autumn Equinox**: September 20th - September 26th
+- **March Equinox**: March 17th - March 23rd
+- **September Equinox**: September 20th - September 26th
 
 ## Core Practices
 

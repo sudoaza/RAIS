@@ -17,8 +17,8 @@ Extendido durante 7 días alrededor de cada equinoccio, este ritual fomenta la a
 
 ## Fechas de los Equinoccios para 2024
 
-- **Equinoccio de Primavera**: 17 de marzo - 23 de marzo
-- **Equinoccio de Otoño**: 20 de septiembre - 26 de septiembre
+- **Equinoccio de Marzo**: 17 de marzo - 23 de marzo
+- **Equinoccio de Septiembre**: 20 de septiembre - 26 de septiembre
 
 ## Prácticas Centrales
 
